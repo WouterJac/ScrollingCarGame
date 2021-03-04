@@ -1,0 +1,402 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/MinGW/include/SDL2/SDL_blendmode.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_config.h
+SDL_platform.h
+C:/MinGW/include/SDL2/SDL_platform.h
+
+C:/MinGW/include/SDL2/SDL_endian.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+endian.h
+-
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_error.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_events.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/MinGW/include/SDL2/SDL_error.h
+SDL_video.h
+C:/MinGW/include/SDL2/SDL_video.h
+SDL_keyboard.h
+C:/MinGW/include/SDL2/SDL_keyboard.h
+SDL_mouse.h
+C:/MinGW/include/SDL2/SDL_mouse.h
+SDL_joystick.h
+C:/MinGW/include/SDL2/SDL_joystick.h
+SDL_gamecontroller.h
+C:/MinGW/include/SDL2/SDL_gamecontroller.h
+SDL_quit.h
+C:/MinGW/include/SDL2/SDL_quit.h
+SDL_gesture.h
+C:/MinGW/include/SDL2/SDL_gesture.h
+SDL_touch.h
+C:/MinGW/include/SDL2/SDL_touch.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_gamecontroller.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/MinGW/include/SDL2/SDL_error.h
+SDL_rwops.h
+C:/MinGW/include/SDL2/SDL_rwops.h
+SDL_joystick.h
+C:/MinGW/include/SDL2/SDL_joystick.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_gesture.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/MinGW/include/SDL2/SDL_error.h
+SDL_video.h
+C:/MinGW/include/SDL2/SDL_video.h
+SDL_touch.h
+C:/MinGW/include/SDL2/SDL_touch.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_joystick.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/MinGW/include/SDL2/SDL_error.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_keyboard.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/MinGW/include/SDL2/SDL_error.h
+SDL_keycode.h
+C:/MinGW/include/SDL2/SDL_keycode.h
+SDL_video.h
+C:/MinGW/include/SDL2/SDL_video.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_keycode.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_scancode.h
+C:/MinGW/include/SDL2/SDL_scancode.h
+
+C:/MinGW/include/SDL2/SDL_mouse.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/MinGW/include/SDL2/SDL_error.h
+SDL_video.h
+C:/MinGW/include/SDL2/SDL_video.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_pixels.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_endian.h
+C:/MinGW/include/SDL2/SDL_endian.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_platform.h
+AvailabilityMacros.h
+C:/MinGW/include/SDL2/AvailabilityMacros.h
+TargetConditionals.h
+C:/MinGW/include/SDL2/TargetConditionals.h
+winapifamily.h
+-
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_quit.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/MinGW/include/SDL2/SDL_error.h
+
+C:/MinGW/include/SDL2/SDL_rect.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/MinGW/include/SDL2/SDL_error.h
+SDL_pixels.h
+C:/MinGW/include/SDL2/SDL_pixels.h
+SDL_rwops.h
+C:/MinGW/include/SDL2/SDL_rwops.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_rwops.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/MinGW/include/SDL2/SDL_error.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_scancode.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_config.h
+C:/MinGW/include/SDL2/SDL_config.h
+sys/types.h
+-
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+stdarg.h
+-
+stdlib.h
+-
+malloc.h
+-
+stddef.h
+-
+stdarg.h
+-
+memory.h
+-
+string.h
+-
+strings.h
+-
+wchar.h
+-
+inttypes.h
+-
+stdint.h
+-
+ctype.h
+-
+math.h
+-
+float.h
+-
+alloca.h
+-
+malloc.h
+-
+malloc.h
+-
+malloc.h
+-
+stdlib.h
+-
+sal.h
+-
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_surface.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_pixels.h
+C:/MinGW/include/SDL2/SDL_pixels.h
+SDL_rect.h
+C:/MinGW/include/SDL2/SDL_rect.h
+SDL_blendmode.h
+C:/MinGW/include/SDL2/SDL_blendmode.h
+SDL_rwops.h
+C:/MinGW/include/SDL2/SDL_rwops.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_touch.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_error.h
+C:/MinGW/include/SDL2/SDL_error.h
+SDL_video.h
+C:/MinGW/include/SDL2/SDL_video.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/SDL_video.h
+SDL_stdinc.h
+C:/MinGW/include/SDL2/SDL_stdinc.h
+SDL_pixels.h
+C:/MinGW/include/SDL2/SDL_pixels.h
+SDL_rect.h
+C:/MinGW/include/SDL2/SDL_rect.h
+SDL_surface.h
+C:/MinGW/include/SDL2/SDL_surface.h
+begin_code.h
+C:/MinGW/include/SDL2/begin_code.h
+close_code.h
+C:/MinGW/include/SDL2/close_code.h
+
+C:/MinGW/include/SDL2/begin_code.h
+
+C:/MinGW/include/SDL2/close_code.h
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/Car.h
+Entity.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/Entity.h
+../Event/Event.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Event/Event.h
+string
+-
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/ECar.h
+Car.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/Car.h
+string
+-
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/EneMissile.h
+string
+-
+Entity.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/Entity.h
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/Entity.h
+SDL_events.h
+-
+string
+-
+../Event/Event.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Event/Event.h
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/Missile.h
+string
+-
+Entity.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/Entity.h
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/Object.h
+Entity.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/Entity.h
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Event/Event.h
+string
+-
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Event/EventHandler.h
+string
+-
+Event.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Event/Event.h
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Factories/AFactory.h
+../Entities/Car.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/Car.h
+string
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Factories/string
+../Entities/ECar.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/ECar.h
+../MenuElements/button.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/MenuElements/button.h
+../Music/MusicPlayer.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Music/MusicPlayer.h
+../Entities/Missile.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/Missile.h
+../Entities/EneMissile.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/EneMissile.h
+../Entities/Object.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/Object.h
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Game.cpp
+Game.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Game.h
+Event/EventHandler.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Event/EventHandler.h
+Entities/Object.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Entities/Object.h
+iostream
+-
+string
+-
+sstream
+-
+stdlib.h
+-
+time.h
+-
+fstream
+-
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Game.h
+Factories/AFactory.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Factories/AFactory.h
+LTimer.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/LTimer.h
+Event/EventHandler.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Event/EventHandler.h
+Music/MusicPlayer.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Music/MusicPlayer.h
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/LTimer.h
+stdio.h
+-
+SDL2/SDL.h
+-
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/MenuElements/button.h
+string
+-
+../Event/Event.h
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Event/Event.h
+
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/Music/MusicPlayer.h
+string
+-
+

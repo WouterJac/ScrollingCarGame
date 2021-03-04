@@ -1,0 +1,3 @@
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/cmake-build-debug/CMakeFiles/oefening1.dir
+C:/Users/jacob/Dropbox/6 - 3de Bachelor Semester 1/6 - Geavanceerd Programmeren/Project/Sharebox/cmake-build-debug/CMakeFiles/edit_cache.dir
